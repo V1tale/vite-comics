@@ -76,7 +76,6 @@ export default {
 <style lang="scss">
 header {
     width: 100%;
-    max-width: 1200px;
     margin:auto;
 }
 .top {
